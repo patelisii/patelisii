@@ -8,7 +8,7 @@ Check out some of my repositories for videos and gifs of my projects!
 
 Here is my current startup that won the PSU Nittany AI Challenge: AIPR
 
-https://www.youtube.com/watch?v=1LzOsPAORoU
+[![Click here to watch our demo](https://i.ytimg.com/vi/1LzOsPAORoU/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDIz5JlGAM2DeVbTWqzlqUyx6jmKg)](https://www.youtube.com/watch?v=1LzOsPAORoU "AIPR MVP Demo")
 
 <!---
 patelisii/patelisii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
