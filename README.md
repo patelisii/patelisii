@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @patelisii
 - 👀 I’m interested in data science and software engineering to help my community
-- 🌱 I’m currently learning unsupervised learning algorithms
+- 🌱 I’m currently learning reinforcement learning, operating systems, and theory of computation
 - 💞️ I’m looking to collaborate on startups or projects for good causes
 - 📫 How to reach me: pat.elisii@icloud.com
 
